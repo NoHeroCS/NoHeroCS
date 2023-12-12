@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NoHeroCS
 - 👀 I’m interested in ethical hacking, threat intelligence, and CTFs.
 - 🌱 I’m currently learning Red/Blue team operations.
-- 💞️ I’m looking to collaborate on Cybersecurity-related projects.
+- 💞️ I’m looking to collaborate on CTFs & OSINT projects (missing persons, criminal investigations, threat intelligence).
 - 📫 https://medium.com/@n0h3r0
 
 <!---
